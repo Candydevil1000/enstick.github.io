@@ -1,0 +1,7 @@
+# README
+A little ol website I'm in the process of making
+
+**Goals**
+- develop other webpages
+- add Images
+- ~~make sure my friends don't find this repo~~
