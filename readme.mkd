@@ -5,3 +5,5 @@ A little ol website I'm in the process of making
 - develop other webpages
 - add Images
 - ~~make sure my friends don't find this repo~~
+
+This is my first project lol (I'm so cooked :skull:)
