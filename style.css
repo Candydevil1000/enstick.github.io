@@ -9,4 +9,27 @@ p    {
   font-family:'Courier New',
     Courier, monospace
   }
+a:link {
+  color: rgb(42, 205, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(255, 0, 43);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(255, 230, 0);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(167, 167, 167);
+  background-color: transparent;
+  text-decoration: underline;
+}
 /* I am very smart lol */
